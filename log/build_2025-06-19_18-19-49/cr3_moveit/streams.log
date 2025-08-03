@@ -1,0 +1,61 @@
+[0.028s] Invoking command in '/home/watato30/dobot_ws/build/cr3_moveit': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake /home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/cr3_moveit -DCMAKE_INSTALL_PREFIX=/home/watato30/dobot_ws/install/cr3_moveit
+[0.127s] -- The C compiler identification is GNU 11.4.0
+[0.238s] -- The CXX compiler identification is GNU 11.4.0
+[0.253s] -- Detecting C compiler ABI info
+[0.386s] -- Detecting C compiler ABI info - done
+[0.399s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.399s] -- Detecting C compile features
+[0.400s] -- Detecting C compile features - done
+[0.408s] -- Detecting CXX compiler ABI info
+[0.522s] -- Detecting CXX compiler ABI info - done
+[0.541s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.541s] -- Detecting CXX compile features
+[0.542s] -- Detecting CXX compile features - done
+[0.548s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.836s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.123s] -- Configuring done
+[1.129s] -- Generating done
+[1.137s] -- Build files have been written to: /home/watato30/dobot_ws/build/cr3_moveit
+[1.145s] Invoked command in '/home/watato30/dobot_ws/build/cr3_moveit' returned '0': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake /home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/cr3_moveit -DCMAKE_INSTALL_PREFIX=/home/watato30/dobot_ws/install/cr3_moveit
+[1.147s] Invoking command in '/home/watato30/dobot_ws/build/cr3_moveit': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --build /home/watato30/dobot_ws/build/cr3_moveit -- -j8 -l8
+[1.225s] Invoked command in '/home/watato30/dobot_ws/build/cr3_moveit' returned '0': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --build /home/watato30/dobot_ws/build/cr3_moveit -- -j8 -l8
+[1.228s] Invoking command in '/home/watato30/dobot_ws/build/cr3_moveit': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --install /home/watato30/dobot_ws/build/cr3_moveit
+[1.253s] -- Install configuration: ""
+[1.253s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/ament_index/resource_index/package_run_dependencies/cr3_moveit
+[1.253s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/ament_index/resource_index/parent_prefix_path/cr3_moveit
+[1.254s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/ament_prefix_path.sh
+[1.254s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/ament_prefix_path.dsv
+[1.254s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/path.sh
+[1.254s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/path.dsv
+[1.254s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.bash
+[1.255s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.sh
+[1.255s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.zsh
+[1.255s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.dsv
+[1.255s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/package.dsv
+[1.255s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/ament_index/resource_index/packages/cr3_moveit
+[1.255s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/cmake/cr3_moveitConfig.cmake
+[1.255s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/cmake/cr3_moveitConfig-version.cmake
+[1.256s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/package.xml
+[1.256s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch
+[1.256s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/setup_assistant.launch.py
+[1.256s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/static_virtual_joint_tfs.launch.py
+[1.256s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/warehouse_db.launch.py
+[1.256s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/rsp.launch.py
+[1.256s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/moveit_gazebo.launch.py
+[1.257s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/spawn_controllers.launch.py
+[1.257s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/moveit_rviz.launch.py
+[1.257s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/move_group.launch.py
+[1.257s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/demo.launch.py
+[1.257s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config
+[1.257s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/pilz_cartesian_limits.yaml
+[1.257s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/moveit.rviz
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/initial_positions.yaml
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/cr3_robot.srdf
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/cr3_robot.urdf.xacro
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/joint_limits.yaml
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/kinematics.yaml
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/cr3_robot.ros2_control.xacro
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/moveit_controllers.yaml
+[1.258s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/ros2_controllers.yaml
+[1.259s] -- Installing: /home/watato30/dobot_ws/install/cr3_moveit/share/cr3_moveit/.setup_assistant
+[1.290s] Invoked command in '/home/watato30/dobot_ws/build/cr3_moveit' returned '0': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --install /home/watato30/dobot_ws/build/cr3_moveit

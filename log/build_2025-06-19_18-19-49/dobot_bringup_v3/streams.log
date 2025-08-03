@@ -1,0 +1,46 @@
+[0.780s] Invoking command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_bringup_v3': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_msgs_v3:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_msgs_v3 LD_LIBRARY_PATH=/home/watato30/dobot_ws/install/dobot_msgs_v3/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/watato30/dobot_ws/build/dobot_bringup_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages:/home/watato30/dobot_ws/install/dobot_msgs_v3/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_bringup_v3 build --build-base /home/watato30/dobot_ws/build/dobot_bringup_v3/build install --record /home/watato30/dobot_ws/build/dobot_bringup_v3/install.log --single-version-externally-managed install_data
+[1.066s] running egg_info
+[1.066s] creating ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info
+[1.066s] writing ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/PKG-INFO
+[1.067s] writing dependency_links to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/dependency_links.txt
+[1.067s] writing entry points to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/entry_points.txt
+[1.067s] writing requirements to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/requires.txt
+[1.067s] writing top-level names to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/top_level.txt
+[1.068s] writing manifest file '../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/SOURCES.txt'
+[1.069s] reading manifest file '../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/SOURCES.txt'
+[1.070s] writing manifest file '../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/SOURCES.txt'
+[1.070s] running build
+[1.070s] running build_py
+[1.070s] creating /home/watato30/dobot_ws/build/dobot_bringup_v3/build
+[1.071s] creating /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib
+[1.071s] creating /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3
+[1.071s] copying dobot_bringup_v3/dobot_bringup.py -> /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3
+[1.071s] copying dobot_bringup_v3/dobot_api.py -> /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3
+[1.071s] copying dobot_bringup_v3/__init__.py -> /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3
+[1.071s] copying dobot_bringup_v3/feedback.py -> /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3
+[1.071s] running install
+[1.072s] running install_lib
+[1.072s] creating /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3
+[1.073s] copying /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3/dobot_bringup.py -> /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3
+[1.073s] copying /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3/dobot_api.py -> /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3
+[1.073s] copying /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3/__init__.py -> /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3
+[1.073s] copying /home/watato30/dobot_ws/build/dobot_bringup_v3/build/lib/dobot_bringup_v3/feedback.py -> /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3
+[1.074s] byte-compiling /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3/dobot_bringup.py to dobot_bringup.cpython-310.pyc
+[1.078s] byte-compiling /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3/dobot_api.py to dobot_api.cpython-310.pyc
+[1.081s] byte-compiling /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3/__init__.py to __init__.cpython-310.pyc
+[1.081s] byte-compiling /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3/feedback.py to feedback.cpython-310.pyc
+[1.083s] running install_data
+[1.083s] creating /home/watato30/dobot_ws/install/dobot_bringup_v3/share/ament_index
+[1.083s] creating /home/watato30/dobot_ws/install/dobot_bringup_v3/share/ament_index/resource_index
+[1.083s] creating /home/watato30/dobot_ws/install/dobot_bringup_v3/share/ament_index/resource_index/packages
+[1.083s] copying resource/dobot_bringup_v3 -> /home/watato30/dobot_ws/install/dobot_bringup_v3/share/ament_index/resource_index/packages
+[1.084s] copying package.xml -> /home/watato30/dobot_ws/install/dobot_bringup_v3/share/dobot_bringup_v3
+[1.084s] creating /home/watato30/dobot_ws/install/dobot_bringup_v3/share/dobot_bringup_v3/launch
+[1.084s] copying launch/dobot_bringup_ros2.launch.py -> /home/watato30/dobot_ws/install/dobot_bringup_v3/share/dobot_bringup_v3/launch
+[1.084s] running install_egg_info
+[1.086s] Copying ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info to /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3-0.0.0-py3.10.egg-info
+[1.087s] running install_scripts
+[1.109s] Installing dobot_bringup script to /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/dobot_bringup_v3
+[1.109s] Installing feedback script to /home/watato30/dobot_ws/install/dobot_bringup_v3/lib/dobot_bringup_v3
+[1.110s] writing list of installed files to '/home/watato30/dobot_ws/build/dobot_bringup_v3/install.log'
+[1.139s] Invoked command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_bringup_v3' returned '0': AMENT_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_msgs_v3:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/watato30/dobot_ws/install/dobot_msgs_v3 LD_LIBRARY_PATH=/home/watato30/dobot_ws/install/dobot_msgs_v3/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/watato30/dobot_ws/build/dobot_bringup_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages:/home/watato30/dobot_ws/install/dobot_msgs_v3/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_bringup_v3 build --build-base /home/watato30/dobot_ws/build/dobot_bringup_v3/build install --record /home/watato30/dobot_ws/build/dobot_bringup_v3/install.log --single-version-externally-managed install_data

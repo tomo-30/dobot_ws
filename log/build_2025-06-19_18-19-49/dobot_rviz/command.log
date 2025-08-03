@@ -1,0 +1,6 @@
+Invoking command in '/home/watato30/dobot_ws/build/dobot_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_rviz -DCMAKE_INSTALL_PREFIX=/home/watato30/dobot_ws/install/dobot_rviz
+Invoked command in '/home/watato30/dobot_ws/build/dobot_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_rviz -DCMAKE_INSTALL_PREFIX=/home/watato30/dobot_ws/install/dobot_rviz
+Invoking command in '/home/watato30/dobot_ws/build/dobot_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/watato30/dobot_ws/build/dobot_rviz -- -j8 -l8
+Invoked command in '/home/watato30/dobot_ws/build/dobot_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/watato30/dobot_ws/build/dobot_rviz -- -j8 -l8
+Invoking command in '/home/watato30/dobot_ws/build/dobot_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/watato30/dobot_ws/build/dobot_rviz
+Invoked command in '/home/watato30/dobot_ws/build/dobot_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/watato30/dobot_ws/build/dobot_rviz

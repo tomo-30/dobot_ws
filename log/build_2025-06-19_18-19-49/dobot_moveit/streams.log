@@ -1,0 +1,36 @@
+[3.230s] Invoking command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_moveit': PYTHONPATH=/home/watato30/dobot_ws/build/dobot_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_moveit build --build-base /home/watato30/dobot_ws/build/dobot_moveit/build install --record /home/watato30/dobot_ws/build/dobot_moveit/install.log --single-version-externally-managed install_data
+[3.576s] running egg_info
+[3.576s] creating ../../../build/dobot_moveit/dobot_moveit.egg-info
+[3.576s] writing ../../../build/dobot_moveit/dobot_moveit.egg-info/PKG-INFO
+[3.576s] writing dependency_links to ../../../build/dobot_moveit/dobot_moveit.egg-info/dependency_links.txt
+[3.576s] writing entry points to ../../../build/dobot_moveit/dobot_moveit.egg-info/entry_points.txt
+[3.577s] writing requirements to ../../../build/dobot_moveit/dobot_moveit.egg-info/requires.txt
+[3.577s] writing top-level names to ../../../build/dobot_moveit/dobot_moveit.egg-info/top_level.txt
+[3.577s] writing manifest file '../../../build/dobot_moveit/dobot_moveit.egg-info/SOURCES.txt'
+[3.580s] reading manifest file '../../../build/dobot_moveit/dobot_moveit.egg-info/SOURCES.txt'
+[3.582s] writing manifest file '../../../build/dobot_moveit/dobot_moveit.egg-info/SOURCES.txt'
+[3.582s] running build
+[3.583s] running build_py
+[3.583s] creating /home/watato30/dobot_ws/build/dobot_moveit/build
+[3.585s] creating /home/watato30/dobot_ws/build/dobot_moveit/build/lib
+[3.585s] creating /home/watato30/dobot_ws/build/dobot_moveit/build/lib/dobot_moveit
+[3.585s] copying dobot_moveit/__init__.py -> /home/watato30/dobot_ws/build/dobot_moveit/build/lib/dobot_moveit
+[3.585s] running install
+[3.585s] running install_lib
+[3.586s] creating /home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit
+[3.586s] copying /home/watato30/dobot_ws/build/dobot_moveit/build/lib/dobot_moveit/__init__.py -> /home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit
+[3.586s] byte-compiling /home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit/__init__.py to __init__.cpython-310.pyc
+[3.586s] running install_data
+[3.587s] creating /home/watato30/dobot_ws/install/dobot_moveit/share/ament_index
+[3.587s] creating /home/watato30/dobot_ws/install/dobot_moveit/share/ament_index/resource_index
+[3.587s] creating /home/watato30/dobot_ws/install/dobot_moveit/share/ament_index/resource_index/packages
+[3.587s] copying resource/dobot_moveit -> /home/watato30/dobot_ws/install/dobot_moveit/share/ament_index/resource_index/packages
+[3.587s] copying package.xml -> /home/watato30/dobot_ws/install/dobot_moveit/share/dobot_moveit
+[3.588s] creating /home/watato30/dobot_ws/install/dobot_moveit/share/dobot_moveit/launch
+[3.588s] copying launch/moveit_gazebo.launch.py -> /home/watato30/dobot_ws/install/dobot_moveit/share/dobot_moveit/launch
+[3.588s] copying launch/dobot_moveit.launch.py -> /home/watato30/dobot_ws/install/dobot_moveit/share/dobot_moveit/launch
+[3.588s] running install_egg_info
+[3.592s] Copying ../../../build/dobot_moveit/dobot_moveit.egg-info to /home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit-0.0.0-py3.10.egg-info
+[3.593s] running install_scripts
+[3.629s] writing list of installed files to '/home/watato30/dobot_ws/build/dobot_moveit/install.log'
+[4.269s] Invoked command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_moveit' returned '0': PYTHONPATH=/home/watato30/dobot_ws/build/dobot_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_moveit build --build-base /home/watato30/dobot_ws/build/dobot_moveit/build install --record /home/watato30/dobot_ws/build/dobot_moveit/install.log --single-version-externally-managed install_data

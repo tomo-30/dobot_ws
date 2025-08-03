@@ -1,0 +1,53 @@
+[3.210s] Invoking command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/servo_action': PYTHONPATH=/home/watato30/dobot_ws/build/servo_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/servo_action build --build-base /home/watato30/dobot_ws/build/servo_action/build install --record /home/watato30/dobot_ws/build/servo_action/install.log --single-version-externally-managed install_data
+[3.544s] running egg_info
+[3.548s] creating ../../../build/servo_action/servo_action.egg-info
+[3.548s] writing ../../../build/servo_action/servo_action.egg-info/PKG-INFO
+[3.548s] writing dependency_links to ../../../build/servo_action/servo_action.egg-info/dependency_links.txt
+[3.548s] writing entry points to ../../../build/servo_action/servo_action.egg-info/entry_points.txt
+[3.548s] writing requirements to ../../../build/servo_action/servo_action.egg-info/requires.txt
+[3.548s] writing top-level names to ../../../build/servo_action/servo_action.egg-info/top_level.txt
+[3.548s] writing manifest file '../../../build/servo_action/servo_action.egg-info/SOURCES.txt'
+[3.549s] reading manifest file '../../../build/servo_action/servo_action.egg-info/SOURCES.txt'
+[3.551s] writing manifest file '../../../build/servo_action/servo_action.egg-info/SOURCES.txt'
+[3.551s] running build
+[3.551s] running build_py
+[3.552s] creating /home/watato30/dobot_ws/build/servo_action/build
+[3.552s] creating /home/watato30/dobot_ws/build/servo_action/build/lib
+[3.553s] creating /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action
+[3.553s] copying servo_action/action_move_client_reality.py -> /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action
+[3.553s] copying servo_action/action_move_client.py -> /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action
+[3.553s] copying servo_action/Joint_Position.py -> /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action
+[3.553s] copying servo_action/action_move_server.py -> /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action
+[3.553s] copying servo_action/__init__.py -> /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action
+[3.553s] copying servo_action/action_move_server_reality.py -> /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action
+[3.554s] running install
+[3.554s] running install_lib
+[3.554s] creating /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action
+[3.555s] copying /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action/action_move_client_reality.py -> /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action
+[3.555s] copying /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action/action_move_client.py -> /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action
+[3.556s] copying /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action/Joint_Position.py -> /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action
+[3.556s] copying /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action/action_move_server.py -> /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action
+[3.556s] copying /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action/__init__.py -> /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action
+[3.556s] copying /home/watato30/dobot_ws/build/servo_action/build/lib/servo_action/action_move_server_reality.py -> /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action
+[3.556s] byte-compiling /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action/action_move_client_reality.py to action_move_client_reality.cpython-310.pyc
+[3.557s] byte-compiling /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action/action_move_client.py to action_move_client.cpython-310.pyc
+[3.557s] byte-compiling /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action/Joint_Position.py to Joint_Position.cpython-310.pyc
+[3.558s] byte-compiling /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action/action_move_server.py to action_move_server.cpython-310.pyc
+[3.558s] byte-compiling /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action/__init__.py to __init__.cpython-310.pyc
+[3.559s] byte-compiling /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action/action_move_server_reality.py to action_move_server_reality.cpython-310.pyc
+[3.559s] running install_data
+[3.560s] creating /home/watato30/dobot_ws/install/servo_action/share/ament_index
+[3.560s] creating /home/watato30/dobot_ws/install/servo_action/share/ament_index/resource_index
+[3.560s] creating /home/watato30/dobot_ws/install/servo_action/share/ament_index/resource_index/packages
+[3.560s] copying resource/servo_action -> /home/watato30/dobot_ws/install/servo_action/share/ament_index/resource_index/packages
+[3.560s] copying package.xml -> /home/watato30/dobot_ws/install/servo_action/share/servo_action
+[3.560s] running install_egg_info
+[3.562s] Copying ../../../build/servo_action/servo_action.egg-info to /home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages/servo_action-0.0.0-py3.10.egg-info
+[3.564s] running install_scripts
+[3.595s] Installing Joint_Position script to /home/watato30/dobot_ws/install/servo_action/lib/servo_action
+[3.595s] Installing action_move_client script to /home/watato30/dobot_ws/install/servo_action/lib/servo_action
+[3.595s] Installing action_move_client_reality script to /home/watato30/dobot_ws/install/servo_action/lib/servo_action
+[3.595s] Installing action_move_server script to /home/watato30/dobot_ws/install/servo_action/lib/servo_action
+[3.596s] Installing action_move_server_reality script to /home/watato30/dobot_ws/install/servo_action/lib/servo_action
+[3.596s] writing list of installed files to '/home/watato30/dobot_ws/build/servo_action/install.log'
+[4.249s] Invoked command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/servo_action' returned '0': PYTHONPATH=/home/watato30/dobot_ws/build/servo_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/servo_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/servo_action build --build-base /home/watato30/dobot_ws/build/servo_action/build install --record /home/watato30/dobot_ws/build/servo_action/install.log --single-version-externally-managed install_data

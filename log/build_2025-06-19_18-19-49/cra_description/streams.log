@@ -1,0 +1,113 @@
+[0.067s] Invoking command in '/home/watato30/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/cra_description -DCMAKE_INSTALL_PREFIX=/home/watato30/dobot_ws/install/cra_description
+[1.703s] -- The C compiler identification is GNU 11.4.0
+[3.199s] -- The CXX compiler identification is GNU 11.4.0
+[3.275s] -- Detecting C compiler ABI info
+[3.560s] -- Detecting C compiler ABI info - done
+[3.571s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.572s] -- Detecting C compile features
+[3.583s] -- Detecting C compile features - done
+[3.593s] -- Detecting CXX compiler ABI info
+[3.924s] -- Detecting CXX compiler ABI info - done
+[3.934s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.934s] -- Detecting CXX compile features
+[3.935s] -- Detecting CXX compile features - done
+[4.189s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.550s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.865s] -- Configuring done
+[4.868s] -- Generating done
+[4.870s] -- Build files have been written to: /home/watato30/dobot_ws/build/cra_description
+[4.876s] Invoked command in '/home/watato30/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/cra_description -DCMAKE_INSTALL_PREFIX=/home/watato30/dobot_ws/install/cra_description
+[4.879s] Invoking command in '/home/watato30/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/watato30/dobot_ws/build/cra_description -- -j8 -l8
+[4.925s] Invoked command in '/home/watato30/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/watato30/dobot_ws/build/cra_description -- -j8 -l8
+[4.937s] Invoking command in '/home/watato30/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/watato30/dobot_ws/build/cra_description
+[4.946s] -- Install configuration: ""
+[4.947s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/ament_index/resource_index/package_run_dependencies/cra_description
+[4.947s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/ament_index/resource_index/parent_prefix_path/cra_description
+[4.947s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/environment/ament_prefix_path.sh
+[4.948s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/environment/ament_prefix_path.dsv
+[4.948s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/environment/path.sh
+[4.948s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/environment/path.dsv
+[4.948s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/local_setup.bash
+[4.948s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/local_setup.sh
+[4.948s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/local_setup.zsh
+[4.949s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/local_setup.dsv
+[4.949s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/package.dsv
+[4.949s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/ament_index/resource_index/packages/cra_description
+[4.949s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/cmake/cra_descriptionConfig.cmake
+[4.949s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/cmake/cra_descriptionConfig-version.cmake
+[4.950s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/package.xml
+[4.950s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf
+[4.950s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/nova5_robot.xacro
+[4.950s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/cr3_robot.xacro
+[4.950s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/cr10_robot.xacro
+[4.950s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/cr12_robot.xacro
+[4.951s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/cr16_robot.xacro
+[4.951s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/cr5_robot.xacro
+[4.951s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/cr7_robot.xacro
+[4.951s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/urdf/nova2_robot.xacro
+[4.951s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes
+[4.951s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5
+[4.951s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link2.STL
+[4.952s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link6.STL
+[4.952s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link4.STL
+[4.953s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link5.STL
+[4.954s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/base_link.STL
+[4.955s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link3.STL
+[4.956s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link1.STL
+[4.957s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2
+[4.957s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link2.STL
+[4.958s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link6.STL
+[4.958s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link4.STL
+[4.959s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link5.STL
+[4.960s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/base_link.STL
+[4.961s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link3.STL
+[4.961s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link1.STL
+[4.962s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5
+[4.962s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/base_link.dae
+[4.963s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link5.dae
+[4.963s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link1.dae
+[4.964s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link4.dae
+[4.965s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link2.dae
+[4.966s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link3.dae
+[4.968s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link6.dae
+[4.968s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12
+[4.968s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J6.STL
+[4.969s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/base_link0.STL
+[4.971s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J1.STL
+[4.971s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J2.STL
+[4.972s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J5.STL
+[4.972s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J3.STL
+[4.973s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J4.STL
+[4.973s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3
+[4.973s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link2.STL
+[4.974s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link6.STL
+[4.975s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link4.STL
+[4.975s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link5.STL
+[4.975s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/base_link.STL
+[4.978s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link3.STL
+[4.978s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link1.STL
+[4.979s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10
+[4.979s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link2.STL
+[4.980s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link6.STL
+[4.980s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link4.STL
+[4.980s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link5.STL
+[4.981s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/base_link.STL
+[4.982s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link3.STL
+[4.983s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link1.STL
+[4.983s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7
+[4.983s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J6.STL
+[4.983s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/base_link0.STL
+[4.984s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J1.STL
+[4.984s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J2.STL
+[4.985s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J5.STL
+[4.986s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J3.STL
+[4.987s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J4.STL
+[4.988s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16
+[4.988s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link2.STL
+[4.988s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link6.STL
+[4.989s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link4.STL
+[4.989s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link5.STL
+[4.990s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/base_link.STL
+[4.991s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link3.STL
+[4.992s] -- Installing: /home/watato30/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link1.STL
+[4.995s] Invoked command in '/home/watato30/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/watato30/dobot_ws/build/cra_description
