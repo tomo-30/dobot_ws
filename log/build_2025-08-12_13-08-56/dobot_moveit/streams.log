@@ -1,0 +1,20 @@
+[3.729s] Invoking command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_moveit': PYTHONPATH=/home/watato30/dobot_ws/build/dobot_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_moveit build --build-base /home/watato30/dobot_ws/build/dobot_moveit/build install --record /home/watato30/dobot_ws/build/dobot_moveit/install.log --single-version-externally-managed install_data
+[4.055s] running egg_info
+[4.056s] writing ../../../build/dobot_moveit/dobot_moveit.egg-info/PKG-INFO
+[4.056s] writing dependency_links to ../../../build/dobot_moveit/dobot_moveit.egg-info/dependency_links.txt
+[4.056s] writing entry points to ../../../build/dobot_moveit/dobot_moveit.egg-info/entry_points.txt
+[4.056s] writing requirements to ../../../build/dobot_moveit/dobot_moveit.egg-info/requires.txt
+[4.057s] writing top-level names to ../../../build/dobot_moveit/dobot_moveit.egg-info/top_level.txt
+[4.059s] reading manifest file '../../../build/dobot_moveit/dobot_moveit.egg-info/SOURCES.txt'
+[4.060s] writing manifest file '../../../build/dobot_moveit/dobot_moveit.egg-info/SOURCES.txt'
+[4.060s] running build
+[4.060s] running build_py
+[4.061s] running install
+[4.061s] running install_lib
+[4.063s] running install_data
+[4.064s] running install_egg_info
+[4.066s] removing '/home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit-0.0.0-py3.10.egg-info' (and everything under it)
+[4.067s] Copying ../../../build/dobot_moveit/dobot_moveit.egg-info to /home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit-0.0.0-py3.10.egg-info
+[4.068s] running install_scripts
+[4.095s] writing list of installed files to '/home/watato30/dobot_ws/build/dobot_moveit/install.log'
+[4.134s] Invoked command in '/home/watato30/dobot_ws/src/DOBOT_6Axis_ROS2_V3_Custom/dobot_moveit' returned '0': PYTHONPATH=/home/watato30/dobot_ws/build/dobot_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/watato30/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_moveit build --build-base /home/watato30/dobot_ws/build/dobot_moveit/build install --record /home/watato30/dobot_ws/build/dobot_moveit/install.log --single-version-externally-managed install_data

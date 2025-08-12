@@ -206,12 +206,12 @@ def main(args=None):
         print(node.pose[i])
 
     node.set_parameter_L(10,10,10,100)
-    node.point("MovJ", -400, 100, 260, -180, 0, -90)
-    node.point("MovL", -400, 50, 230, -180, 0, -90)  
+    node.point("MovJ", -400, 100, 260, -180, 0, -90)  #手先移動(適当)絶対値
+    node.point("MovL", -400, 50, 230, -180, 0, -90)  #手先移動(直線)絶対値
     node.set_parameter_L(50,50,50,100)
     time.sleep(3)  
-    node.point("RelMovJ", 0, 0, 0, 0, 20, 0)
-    node.point("RelMovL", 40, 0, 0, 0, 0, 0)  
+    node.point("RelMovJ", 0, 0, 0, 0, 20, 0)  #ジョイントの相対位置
+    node.point("RelMovL", 40, 0, 0, 0, 0, 0)  #手先の相対位置
     time.sleep(3)  
     
     node.finish()#disableをする #Custom部

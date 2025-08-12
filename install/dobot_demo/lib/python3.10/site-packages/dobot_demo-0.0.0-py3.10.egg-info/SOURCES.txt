@@ -10,6 +10,7 @@ setup.py
 ../../../build/dobot_demo/dobot_demo.egg-info/zip-safe
 dobot_demo/__init__.py
 dobot_demo/demo.py
+dobot_demo/gui_move.py
 resource/dobot_demo
 test/test_copyright.py
 test/test_flake8.py

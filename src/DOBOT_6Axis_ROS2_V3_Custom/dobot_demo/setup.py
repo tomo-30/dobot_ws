@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
         'demo = dobot_demo.demo:main',
+        'gui_move = dobot_demo.gui_move:main',
         ],
     },
 )

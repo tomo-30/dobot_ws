@@ -1,5 +1,7 @@
+/home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/gui_move.py
 /home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/demo.py
 /home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/__init__.py
+/home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/__pycache__/gui_move.cpython-310.pyc
 /home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/__pycache__/demo.cpython-310.pyc
 /home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/__pycache__/__init__.cpython-310.pyc
 /home/watato30/dobot_ws/install/dobot_demo/share/ament_index/resource_index/packages/dobot_demo
@@ -12,3 +14,4 @@
 /home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo-0.0.0-py3.10.egg-info/top_level.txt
 /home/watato30/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo-0.0.0-py3.10.egg-info/requires.txt
 /home/watato30/dobot_ws/install/dobot_demo/lib/dobot_demo/demo
+/home/watato30/dobot_ws/install/dobot_demo/lib/dobot_demo/gui_move
